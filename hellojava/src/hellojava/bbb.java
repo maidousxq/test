@@ -1,5 +1,5 @@
 package hellojava;
 
-public class bbb {
+public class bbb {g df dfgh
 
 }
