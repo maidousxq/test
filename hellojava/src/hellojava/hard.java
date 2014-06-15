@@ -1,5 +1,5 @@
 package hellojava;
 
-public class hard {
+public class hard {wwer wrrw
 
 }
