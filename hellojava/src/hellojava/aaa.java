@@ -1,6 +1,6 @@
 package hellojava;
 
 public class aaa {
-aaaaaaa
+d
 
 }
